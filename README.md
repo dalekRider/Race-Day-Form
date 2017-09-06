@@ -1,5 +1,5 @@
 # Race-Day-Form
-<h2>Solution to Codecademy's Race Day Form project<h2>
+<h2>Solution to Codecademy's Race Day Form project</h2>
 
 This is a simple solution to <a href="www.codecademy.com" target="_blank">Codecademy's</a> Race Day form project. The project has the following requirements:
 
