@@ -20,4 +20,4 @@ This is a simple solution to <a href="www.codecademy.com" target="_blank">Codeca
 
 This solution works, however I feel I may be missing something or possibly the options provided in the project only allow for a small amount of options to throw the "Report to registration desk" error. I have been able to get all the required responses to log into console. I will come back and look at this again to see if I can widen the range of input that causes the final else condition to trigger.
 
-<h3>Johnathan Mercier - The Dalek Rider</h3>
+<strong>Johnathan Mercier</strong>
