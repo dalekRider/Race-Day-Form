@@ -21,3 +21,6 @@ This is a simple solution to <a href="https://www.codecademy.com/" target="_blan
 This solution works, however I feel I may be missing something or possibly the options provided in the project only allow for a small amount of options to throw the "Report to registration desk" error. I have been able to get all the required responses to log into console. I will come back and look at this again to see if I can widen the range of input that causes the final else condition to trigger.
 
 <strong>Johnathan Mercier</strong>
+
+### Update 1/17/2018
+Bug found: race numbers are only randomly assigned on page refresh. This script will be getting a major update which will address that but, will also provide more functionality and options. After going through my repos to prioritize and update them, I will be spending about a week per repo to polish and finalize each one. This one will be further down the list and may require more time and planning.
